@@ -1,4 +1,4 @@
-STAT702 S1 2020
+# STAT702 S1 2020
 
 Auckland University of Technology (AUT) - STAT702 Industrial and Business Analytics S1 2020
 
